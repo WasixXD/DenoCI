@@ -6,5 +6,5 @@ Deno.test(function addTest() {
 });
 
 Deno.test("add()", () => {
-  assertEquals(add(3, 3), 6)
-})
+  assertEquals(add(3, 3), 6);
+});
