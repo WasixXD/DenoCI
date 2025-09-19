@@ -13,3 +13,7 @@ export function mul(a: number, b: number): number {
 export function div(a: number, b: number): number {
   return a * b;
 }
+
+export function pow2(a: number): number {
+  return a * a;
+}
