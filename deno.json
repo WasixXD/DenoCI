@@ -1,6 +1,6 @@
 {
   "name": "@wasix/test",
-  "version": "0.1.1",
+  "version": "v0.1.1",
   "license": "MIT",
   "exports": "./main.ts",
   "tasks": {
